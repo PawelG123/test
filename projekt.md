@@ -8,7 +8,7 @@
     3. Tymczasowe dane logowania (admin/admin)
 
 2. **Tabele**
-        1. Tabelka z produktami(Produkt)
+      1. Tabelka z produktami(Produkt)
        A. Zawartość tabel
           1. id_produktu
           2. nazwa_produktu
