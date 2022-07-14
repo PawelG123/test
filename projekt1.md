@@ -28,7 +28,7 @@
           1. Send(create)
           2. Update
           3. Delete       
-          
+
   2. Tabelka z zamówieniami(Zamowienia)
       1. Zawartość tabel
           1. id_zamowienia
@@ -79,10 +79,10 @@
 #### Techniczne
 
 1. **Baza danych**
-    1. Tabela Klienci
-    2. Tabela Produkt
-    3. Tabelka Users
-    4. Tabela Zamowienia
+    1. Tabela Produkt
+    2. Tabela Zamowienia
+    3. Tabela Klienci
+    4. Tabelka Users
 2. **ORM - operacje na bazie**
     1. Dodawanie rekordów w bazie
     2. Pobieranie rekordów z bazy
