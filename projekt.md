@@ -2,13 +2,13 @@
 
 ## **Hormonogram pracy dla Sklepu Akwarystycznego**
 
-1. **Okno Logowania**
+**Okno Logowania**
     1. Pole do wprowadzania danych logowania oraz przycisk do logowania
     2. Komunikaty błędów logowania (nieprawidłowy login lub hasło)
     3. Tymczasowe dane logowania (admin/admin)
 
-2. **Tabele**
-    1. Tabelka z produktami(Produkt)
+**Tabele**
+   1. Tabelka z produktami(Produkt)
       1. Zawartość tabel
           1. id_produktu
           2. nazwa_produktu
@@ -24,11 +24,11 @@
           4. Cena Brutto
           5. Ilosc
           6. Dostepnosc
-       3. Przyciski
+      3. Przyciski
           1. Send(create)
           2. Update
           3. Delete       
-   2. Tabelka z zamówieniami(zamowienia)
+    2. Tabelka z zamówieniami(zamowienia)
         1. Zawartość tabel
           1. id_zamowienia
           2. id_produktu
@@ -40,7 +40,7 @@
         3. Przyciski
           1. Wyślij
           2. Refresh         
-   3. Tabelka z kklientami(klienci)
+    3. Tabelka z kklientami(klienci)
         1. Zawartość tabel
           1. id_klient
           2. imie
