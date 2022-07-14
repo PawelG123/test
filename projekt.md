@@ -3,9 +3,9 @@
 ## **Hormonogram pracy dla Sklepu Akwarystycznego**
 
 **Okno Logowania**
-    1. Pole do wprowadzania danych logowania oraz przycisk do logowania
-    2. Komunikaty błędów logowania (nieprawidłowy login lub hasło)
-    3. Tymczasowe dane logowania (admin/admin)
+   1. Pole do wprowadzania danych logowania oraz przycisk do logowania
+   2. Komunikaty błędów logowania (nieprawidłowy login lub hasło)
+   3. Tymczasowe dane logowania (admin/admin)
 
 **Tabele**
   1. Tabelka z produktami(Produkt)
