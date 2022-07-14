@@ -8,7 +8,7 @@
     3. Tymczasowe dane logowania (admin/admin)
 
 **Tabele**
-   1. Tabelka z produktami(Produkt)
+  1. Tabelka z produktami(Produkt)
       1. Zawartość tabel
           1. id_produktu
           2. nazwa_produktu
@@ -28,7 +28,7 @@
           1. Send(create)
           2. Update
           3. Delete       
-    2. Tabelka z zamówieniami(zamowienia)
+   2. Tabelka z zamówieniami(zamowienia)
         1. Zawartość tabel
           1. id_zamowienia
           2. id_produktu
