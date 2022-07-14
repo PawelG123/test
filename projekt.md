@@ -27,8 +27,7 @@
        C. Przyciski
           1. Send(create)
           2. Update
-          3. Delete
-         
+          3. Delete       
    2. Tabelka z zamówieniami(zamowienia)
         A. Zawartość tabel
           1. id_zamowienia
@@ -40,8 +39,7 @@
           3. Odebrano 0/1
         C. Przyciski
           1. Wyślij
-          2. Refresh
-         
+          2. Refresh         
    3. Tabelka z kklientami(klienci)
         A. Zawartość tabel
           1. id_klient
