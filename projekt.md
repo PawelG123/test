@@ -29,19 +29,19 @@
           2. Update
           3. Delete       
    2. Tabelka z zamówieniami(zamowienia)
-        1. Zawartość tabel
+      1. Zawartość tabel
           1. id_zamowienia
           2. id_produktu
           3. sztuk
-        2. Pola do tworzenia
+      2. Pola do tworzenia
           1. ID Zamowienia
           2. Ilosc
           3. Odebrano 0/1
-        3. Przyciski
+      3. Przyciski
           1. Wyślij
           2. Refresh         
     3. Tabelka z kklientami(klienci)
-        1. Zawartość tabel
+      1. Zawartość tabel
           1. id_klient
           2. imie
           3. nazwisko
@@ -51,7 +51,7 @@
           7. kodpocztowy
           8. miejscowośc
           9. klient_staly
-        2. Pola do tworzenia
+      2. Pola do tworzenia
           1. imie
           2. nazwisko
           3. telefon   
@@ -59,7 +59,7 @@
           5. kodpocztowy
           6. miejscowośc
           7. lient_staly
-        3. Przyciski
+      3. Przyciski
           1. Wyślij
           2. Refresh
 
