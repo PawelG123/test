@@ -28,7 +28,7 @@
           1. Send(create)
           2. Update
           3. Delete       
-  2. Tabelka z zamówieniami(zamowienia)
+  2. Tabelka z zamówieniami(Zamowienia)
       1. Zawartość tabel
           1. id_zamowienia
           2. id_produktu
@@ -40,7 +40,7 @@
       3. Przyciski
           1. Wyślij
           2. Refresh         
-  3. Tabelka z kklientami(klienci)
+  3. Tabelka z klientami(Klienci)
       1. Zawartość tabel
           1. id_klient
           2. imie
@@ -59,6 +59,17 @@
           5. kodpocztowy
           6. miejscowośc
           7. lient_staly
+      3. Przyciski
+          1. Wyślij
+          2. Refresh
+  4. Tabelka z users(Users)
+      1. Zawartość tabel
+          1. id_user
+          2. login
+          3. password
+      2. Pola do tworzenia
+          1. Username
+          2. Password
       3. Przyciski
           1. Wyślij
           2. Refresh
